@@ -1,5 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub offers with the least amount of noise.
+# Welcome to Team 306's respository
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 Hello guys! I'm Sivanee and this is our team 306's repository 
