@@ -1,11 +1,11 @@
 
 
 
-Arizona State University
-EGR 314: Embedded Systems Design II
-Professor Nichols
-Team 306
-1.26.24
+                                               ## Arizona State University
+                                      ## EGR 314: Embedded Systems Design II
+                                                ## Professor Nichols
+                                                   ## Team 306
+                                                    ## 1.26.24
 
 
 
@@ -16,13 +16,15 @@ Our team’s objective is to invent a product that can help users with their car
 ## Team Organization
 Charter - As a team, we will commit to upholding these goals and working collaboratively to achieve the mission of creating an exceptional design that fits all requirements needed for the project. We recognize the importance of innovation, reliability, and sustainability in our project, and will work as hard as we can to ensure that we succeed. 
 
-## Mission Statement - Using our creative ability, we plan on creating up to at least four ideas that could have the potential to reach one of the said goals and to help build up our skills and understanding when working with sensors related to the environment. The objective of team 306 is to create a product that is eco-friendly and low on budget, whether it’s reading humidity percentage in the air, moisture in the soil, or conserving power. One of our ideas was to create a device that could tell the humidity in the air or moisture in the soil around a plant using sensors so it could help notify users if the plant is in the right climate and perhaps using a motor to create a water pump to help moisture the plant’s dry surroundings. Another idea was to conserve energy with a miniature Turbine or a Temperature Stirling Engine that can convert its mechanical energy into electrical power.
+## Mission Statement 
+Using our creative ability, we plan on creating up to at least four ideas that could have the potential to reach one of the said goals and to help build up our skills and understanding when working with sensors related to the environment. The objective of team 306 is to create a product that is eco-friendly and low on budget, whether it’s reading humidity percentage in the air, moisture in the soil, or conserving power. One of our ideas was to create a device that could tell the humidity in the air or moisture in the soil around a plant using sensors so it could help notify users if the plant is in the right climate and perhaps using a motor to create a water pump to help moisture the plant’s dry surroundings. Another idea was to conserve energy with a miniature Turbine or a Temperature Stirling Engine that can convert its mechanical energy into electrical power.
 
 ## User Needs
 Conducting separate individual research based on our inspired products from other vendors, our team was able to pitch up a list of customer needs that is neatly pilled into separate categories below
 
 ## Product Requirements
 Our product must sense at least 2 of the following environmental conditions via at least 2 separate serial sensors: temperature, humidity, atmospheric pressure, wind speed, and based on our recent studies on our user needs we are mainly going to be focusing on the safety, design, and functionality of our future product. Features of our product requirement will include secure access, easy usage, durability, secure software, and accurate tracking. 
+
 ## Design Ideation
 Being influenced by the criticism of consumers online and our determination to our team goals as well as our team charter, we have created a band of ideas generated during our brainstorming process. We have also ranked them into separate categories that determine whether they are the most effective to least effective. Out of all our ideas, we have selected four drafts that we are still focusing on how they can be used for purpose: 
 
