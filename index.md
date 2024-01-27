@@ -20,7 +20,7 @@ Our team’s objective is to invent a product that can help users with their car
 You can find more about Team 306 above. 
 ## [2.0 User Needs, Benchmarking, and Requirements](UserNeeds_Benchmarking_and_Requirements.md)
 You can find more about the team's User Needs, Benchmarking, and Requirements above.
-## [3.0 Design Ideation](Design_ideation.md)
+## [3.0 Design Ideation](Design_Ideation.md)
 You can find more about the team's Design Ideation above.
 
 ## Team 306 Video
