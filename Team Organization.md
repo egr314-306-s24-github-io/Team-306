@@ -1,4 +1,4 @@
-Team Organization
+title: Team Organization
 
 
 Charter
