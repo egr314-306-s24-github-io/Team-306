@@ -17,7 +17,7 @@ Introducing our latest innovation in plant care: a mobile device designed to rev
   
 **Tabel of Contents**
   ---
-## [1.0 Team Organization](Team Organization.md)
+## [1.0 Team Organization](Team_Organization.md)
 You can find more about Team 306 above. 
 ## [2.0 User Needs, Benchmarking, and Requirements](UserNeeds_Benchmarking_Requirements.md)
 You can find more about the team's User Needs, Benchmarking, and Requirements above.
