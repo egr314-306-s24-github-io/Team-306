@@ -5,7 +5,7 @@ Conducting separate individual research based on our inspired products from othe
 ## 2.1 Product Requirements
 Our product must sense at least 2 of the following environmental conditions via at least 2 separate serial sensors: temperature, humidity, atmospheric pressure, wind speed, and based on our recent studies on our user needs we are mainly going to be focusing on the safety, design, and functionality of our future product. Features of our product requirement will include secure access, easy usage, durability, secure software, and accurate tracking. 
 
-Design Ideation
+## 2.3 Design Ideation
 Being influenced by the criticism of consumers online and our determination to our team goals as well as our team charter, we have created a band of ideas generated during our brainstorming process. We have also ranked them into separate categories that determine whether they are the most effective to least effective. Out of all our ideas, we have selected four drafts that we are still focusing on how they can be used for purpose: 
 
 *Wind-powered turbine - a miniature device that harnesses the power of wind, which in turn can be converted into electrical energy.
