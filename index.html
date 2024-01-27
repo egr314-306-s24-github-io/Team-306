@@ -1,80 +1,84 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <title>Team 306 Project Documentation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team 306</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f4f4;
-            line-height: 1.6;
-            padding: 20px;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        h1 {
             color: #333;
         }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #0056b3;
-        }
-        .team-info h1 {
-            border-bottom: 2px solid #0056b3;
-            padding-bottom: 5px;
-        }
-        .section-title {
-            background-color: #e7f1ff;
-            padding: 6px 12px;
-            border-left: 5px solid #0056b3;
+
+        section {
             margin-top: 20px;
-            margin-bottom: 10px;
         }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
         a {
-            color: #0056b3;
-            text-decoration: none;
+            color: #007BFF;
         }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 5px;
-        }
-        ul li::before {
-            content: "• ";
-            color: #0056b3;
-            font-weight: bold;
+
+        img {
+            max-width: 100%;
+            height: auto;
         }
     </style>
 </head>
+
 <body>
-    <div class="container">
-        <div class="team-info">
-            <h1>Team 306</h1>
-          <p>ASU Polytechnic, EGR 314, Professor Nichols</p>
-            <p>Team Members: Sivanee, Alex Nguyen, Alex Leon, Miguel Hernandez</p>
-            <p>Date: 01/26/2023</p>
-      
-        </div>
 
-        <div class="introduction">
-            <h2 class="section-title">Introduction</h2>
-            <p>Our team’s objective is to invent a product that can help users with their carbon footprint and have a great effect on the environment. We will also be implementing the uses of sensors and motors that can help create a sturdy system where it is possible to measure weather parameters including temperature, humidity, and wind speed. Our team also has intentions to input actuation mechanisms to have a responsive actuation system that can autonomously react to the environmental data that will be collected. Our planned products are to be developed as user-friendly as well as create an intuitive user interface for configuring and monitoring the environment. We also want to ensure a secure MQTT communication in which we will be implementing a robust communication system using the MQTT protocol to securely transmit environmental data over WiFi where we can prioritize data integrity, confidentiality, and availability to ensure the information is transmitted properly and efficiently.</p>
-        </div>
+    <header>
+        <h1>Team 306</h1>
+        <p>ASU Polytechnic, EGR 314, Professor Nichols</p>
+        <p>Team Members: Sivanee, Alex Nguyen, Alex Leon, Miguel Hernandez</p>
+        <p>01/26/2023</p>
+    </header>
 
-        <div class="table-of-contents">
-            <h2 class="section-title">Table of Contents</h2>
-            <ul>
-                <li><a href="Team_Organization.md">1.0 Team Organization</a></li>
-                <li><a href="UserNeeds_Benchmarking_Requirements.md">2.0 User Needs, Benchmarking, and Requirements</a></li>
-                <li><a href="Design_Ideation.md">3.0 Design Ideation</a></li>
-            </ul>
-        </div>
-    </div>
+    <section>
+        <h2>Introduction</h2>
+        <p>
+            Our team’s objective is to invent a product that can help users with their carbon footprint and have a great effect on the environment. We will also be implementing the uses of sensors and motors that can help create a sturdy system where it is possible to measure weather parameters including temperature, humidity, and wind speed. Our team also has intentions to input actuation mechanisms to have a responsive actuation system that can autonomously react to the environmental data that will be collected. Our planned products are to be developed as user-friendly as well as create an intuitive user interface for configuring and monitoring the environment. We also want to ensure a secure MQTT communication in which we will be implementing a robust communication system using the MQTT protocol to securely transmit environmental data over WiFi where we can prioritize data integrity, confidentiality, and availability to ensure the information is transmitted properly and efficiently.
+        </p>
+    </section>
+
+    <section>
+        <h2>Report</h2>
+        <p>Check out our detailed report: <a href="Report.md">Report.md</a></p>
+    </section>
+
+    <section>
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="Team_Organization.md">1.0 Team Organization</a></li>
+            <li><a href="UserNeeds_Benchmarking_and_Requirements.md">2.0 User Needs, Benchmarking, and Requirements</a></li>
+            <li><a href="Design_Ideation.md">3.0 Design Ideation</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Team 306 Video</h2>
+        <a href="https://www.youtube.com/watch?v=Inl4mMgCcvc" target="_blank">
+            <img src="http://img.youtube.com/vi/Inl4mMgCcvc/0.jpg" alt="Team 306 Video">
+        </a>
+    </section>
+
 </body>
+
 </html>
