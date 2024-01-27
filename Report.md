@@ -1,11 +1,10 @@
 
 
-
-                                               ## Arizona State University
-                                      ## EGR 314: Embedded Systems Design II
-                                                ## Professor Nichols
-                                                   ## Team 306
-                                                    ## 1.26.24
+## Arizona State University
+## EGR 314: Embedded Systems Design II
+## Professor Nichols
+## Team 306
+## 1.26.24
 
 
 
