@@ -23,5 +23,5 @@ You can find more about the team's User Needs, Benchmarking, and Requirements ab
 ## [3.0 Design Ideation](Design_Ideation.md)
 You can find more about the team's Design Ideation above.
 
-##Team 306 Video 
-([[http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title"](https://www.youtube.com/watch?v=Inl4mMgCcvc)https://www.youtube.com/watch?v=Inl4mMgCcvc)]
+## Team 306 Video 
+([[http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title"](https://www.youtube.com/watch?v=Inl4mMgCcvc)https://www.youtube.com/watch?v=Inl4mMgCcvc)] 
