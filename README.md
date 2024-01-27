@@ -1,11 +1,12 @@
 # Mobile Weather Device
-EGR 314 
+Team 306
+
 Spring 2024
 
-Hello guys! I'm Sivanee.
+Team Members: 
+Sivanee, Alex Nguyen, Alex Leon, Miguel Hernandez
 
-Hello, my name is Alex Nguyen.
+01/26/2023
 
-Hello, my name is Miguel Hernandez.
+ASU Polytechnic, EGR 314, Professor Nichols
 
-Hello, my name is Alex Leon
