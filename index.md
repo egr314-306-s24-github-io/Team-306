@@ -24,4 +24,4 @@ You can find more about the team's User Needs, Benchmarking, and Requirements ab
 You can find more about the team's Design Ideation above.
 
 ##Team 306 Video 
-[![Team CheckPoint 1 ( Team 306 )]([http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title"](https://www.youtube.com/watch?v=Inl4mMgCcvc)https://www.youtube.com/watch?v=Inl4mMgCcvc)
+[![Team CheckPoint 1 ( Team 306 )]([[http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title"](https://www.youtube.com/watch?v=Inl4mMgCcvc)https://www.youtube.com/watch?v=Inl4mMgCcvc)](https://youtu.be/Inl4mMgCcvc)https://youtu.be/Inl4mMgCcvc
