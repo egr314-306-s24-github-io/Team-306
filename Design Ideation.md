@@ -9,6 +9,7 @@ Being influenced by the criticism of consumers online and our determination to o
 - A toy that tells users what to wear - a device that offers suggestions for users on what to wear depending on the climate of the day.
 
 - Thermal Powered Engine- a Stirling engine that can convert thermal energy into mechanical energy, which in turn can be converted into electrical energy using a motor.
+  
 
 
 [Back to Home](README.md)
