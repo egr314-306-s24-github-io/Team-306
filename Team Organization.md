@@ -1,3 +1,6 @@
+Team Organization
+
+
 Charter
 
 As a team, we will commit to upholding these goals and working collaboratively to achieve the mission of creating an exceptional design that fits all requirements needed for the project. We recognize the importance of innovation, reliability, and sustainability in our project, and will work as hard as we can to ensure that we succeed. 
