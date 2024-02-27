@@ -22,6 +22,19 @@ You can find more about Team 306 above.
 You can find more about the team's User Needs, Benchmarking, and Requirements above.
 ## [3.0 Design Ideation](Design_Ideation.md)
 You can find more about the team's Design Ideation above.
+## [4.0 Selected Design](Selected Design.md)
+You can find more about the team's Design Ideation above.
+## [5.0 Block Diagram](Block Diagram.md)
+You can find more about the team's Design Ideation above.
+## [6.0 Component Selection](Component Selection.md)
+You can find more about the team's Design Ideation above.
+## [7.0 Microcontroller Selection](Microcontroller Selection.md)
+You can find more about the team's Design Ideation above.
+## [8.0 Hardware Proposal](Hardware Proposal.md)
+You can find more about the team's Design Ideation above.
+## [9.0 Software_Proposal](Software_Proposal.md)
+You can find more about the team's Design Ideation above.
+
 
 ## Team 306 Video
 
