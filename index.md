@@ -30,7 +30,7 @@ You can find more about the team's Design Ideation above.
 You can find more about the team's Design Ideation above.
 ## [7.0 Microcontroller Selection](Microcontroller Selection.md)
 You can find more about the team's Design Ideation above.
-## [8.0 Hardware Proposal](Hardware Proposal.md)
+## [8.0 Hardware_Proposal](Hardware_Proposal.md)
 You can find more about the team's Design Ideation above.
 ## [9.0 Software_Proposal](Software_Proposal.md)
 You can find more about the team's Design Ideation above.
