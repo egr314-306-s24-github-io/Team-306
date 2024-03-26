@@ -3,7 +3,7 @@ Team 306
 ASU Polytechnic, EGR 314, Professor Nichols <r>
 
 Team Members: 
-Sivanee, Alex Nguyen, Alex Leon, Miguel Hernandez
+Alex Nguyen, Alex Leon, Miguel Hernandez
 
 01/26/2023
 
