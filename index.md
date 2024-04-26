@@ -34,6 +34,8 @@ You can find more about the team's Design Ideation above.
 You can find more about the team's Design Ideation above.
 ## [9.0 SoftwareProposal](Software_Proposal.md)
 You can find more about the team's Design Ideation above.
+## [10.0 Appendix](Appendix.md)
+You can find more about the team's Design Ideation above.
 
 
 ## Team 306 Video
