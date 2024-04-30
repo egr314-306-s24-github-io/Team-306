@@ -1,7 +1,7 @@
 ## EGR 314 Report
 Arizona State University
 
-Team members: Sivanee Naghichetty, Alex Nguyen, Alex Leon, Miguel Hernandez
+Team members:  Alex Nguyen, Alex Leon, Miguel Hernandez
 
 EGR 314: Embedded Systems Design II
 
